@@ -20,7 +20,7 @@ The project is actively evolving, with both functionality and UI continuously im
 
 ---
 
-## 👨🏻‍💻 Author
+## 👩‍💻 Author
 
 [**Svetlana Filippova**](https://github.com/SvitlanaFilippova)
 
