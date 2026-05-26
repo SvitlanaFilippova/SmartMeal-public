@@ -6,6 +6,7 @@
 >
 > SmartMeal учитывает не только калории, но и реальные сценарии домашней кухни: готовку на несколько дней, остатки еды, фиксированные приёмы пищи и разные цели членов семьи.
 
+![SmartMeal Logo](./screenshots/smartmeal-logo-2.svg)
 
 Kotlin Multiplatform-проект с общим UI, бизнес-логикой, сетевым слоем и локальным кэшем для Android и iOS.
 
@@ -122,17 +123,14 @@ https://smartmeal-app.tilda.ws/
 
 ## Интерфейс приложения 📱
 
-<!--
-<img src="screenshots/1_diary.gif" width="30%">
-<img src="screenshots/2_recipes.jpg" width="30%">
+<img src="screenshots/1_diary.jpg" width="30%">
+<img src="screenshots/2_recipe.jpg" width="30%">
 <img src="screenshots/3_planner.jpg" width="30%">
 
-<img src="screenshots/4_ingredients.jpg" width="30%">
+<img src="screenshots/4_calculator.jpg" width="30%">
 <img src="screenshots/5_goals.jpg" width="30%">
 <img src="screenshots/6_family.jpg" width="30%">
--->
 
-_Скриншоты и демо-гифки — скоро._
 
 ---
 
