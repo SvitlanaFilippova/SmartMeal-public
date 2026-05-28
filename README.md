@@ -8,7 +8,7 @@
 >
 > SmartMeal focuses not only on calories, but also on real-life home cooking scenarios: meal prep for several days, leftovers, fixed meals and different nutrition goals within a family.
 
----
+
 
 Kotlin Multiplatform project with shared UI, business logic, networking and local caching for Android and iOS.
 
