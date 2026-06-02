@@ -67,10 +67,10 @@ Product idea, architecture, UI/UX, mobile development, meal-planning domain logi
 | Data synchronization via Supabase | ✔️ Implemented |
 | Offline catalog access with Room | ✔️ Implemented |
 | Automatic shopping list generation | ✔️ Implemented |
+| Goal achievement analytics and statistics | ✔️ Implemented|
 | External food API integration | 🔜 Planned |
 | Barcode-based product scanning | 🔜 Planned |
 | Advanced meal planner filters | 🔜 Planned |
-| Goal achievement analytics and statistics | 🔜 Planned |
 | Recipe import via URL | 🔜 Planned |
 | AI-powered recipe adaptation | 🔜 Planned |
 
